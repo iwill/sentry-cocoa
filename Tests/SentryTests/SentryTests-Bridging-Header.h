@@ -81,3 +81,5 @@
 #import "SentryTransport.h"
 #import "SentryTransportFactory.h"
 #import "SentryUserFeedback.h"
+#import "SentryFramesTracker.h"
+#import "SentryDisplayLinkWrapper.h"
